@@ -6,7 +6,12 @@
   height: 40vmin;
   pointer-events: none;
 }
-
+.btn {
+  background: #61dafb;
+  color: #282c34;
+  width: 200px;
+  padding: 10px;
+}
 .Shopbag{
   display: flex;
   justify-content: center;

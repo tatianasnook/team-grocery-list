@@ -1,5 +1,6 @@
 
 import './App.css';
+import { Button } from './Button';
 import { GroceryList } from './GroceryList';
 
 function App() {
@@ -9,6 +10,7 @@ function App() {
       <h1>Grocery List</h1>
       <GroceryList />
       <p>Good shopping</p>
+      <Button />
     </div>
   
   );
